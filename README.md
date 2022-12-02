@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ramkumar Karthikeyan @RamCS2001
 - 👀 I’m interested in Full Stack Development
--
 - 📫 How to reach me kram.cse.2001@gmail.com / 9486030044
 
 <!---
